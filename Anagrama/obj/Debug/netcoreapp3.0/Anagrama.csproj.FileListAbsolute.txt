@@ -1,0 +1,12 @@
+C:\Users\Consuelo\source\repos\Anagrama\Anagrama\bin\Debug\netcoreapp3.0\Anagrama.exe
+C:\Users\Consuelo\source\repos\Anagrama\Anagrama\bin\Debug\netcoreapp3.0\Anagrama.deps.json
+C:\Users\Consuelo\source\repos\Anagrama\Anagrama\bin\Debug\netcoreapp3.0\Anagrama.runtimeconfig.json
+C:\Users\Consuelo\source\repos\Anagrama\Anagrama\bin\Debug\netcoreapp3.0\Anagrama.runtimeconfig.dev.json
+C:\Users\Consuelo\source\repos\Anagrama\Anagrama\bin\Debug\netcoreapp3.0\Anagrama.dll
+C:\Users\Consuelo\source\repos\Anagrama\Anagrama\bin\Debug\netcoreapp3.0\Anagrama.pdb
+C:\Users\Consuelo\source\repos\Anagrama\Anagrama\obj\Debug\netcoreapp3.0\Anagrama.csprojAssemblyReference.cache
+C:\Users\Consuelo\source\repos\Anagrama\Anagrama\obj\Debug\netcoreapp3.0\Anagrama.AssemblyInfoInputs.cache
+C:\Users\Consuelo\source\repos\Anagrama\Anagrama\obj\Debug\netcoreapp3.0\Anagrama.AssemblyInfo.cs
+C:\Users\Consuelo\source\repos\Anagrama\Anagrama\obj\Debug\netcoreapp3.0\Anagrama.dll
+C:\Users\Consuelo\source\repos\Anagrama\Anagrama\obj\Debug\netcoreapp3.0\Anagrama.pdb
+C:\Users\Consuelo\source\repos\Anagrama\Anagrama\bin\Debug\netcoreapp3.0\Dicionario\palavras.txt
